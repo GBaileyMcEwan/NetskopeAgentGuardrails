@@ -1,5 +1,5 @@
 def main():
-    print("Hello World")
+    print("Netskope Rocks!")
 
 
 if __name__ == "__main__":
