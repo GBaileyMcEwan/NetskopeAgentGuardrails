@@ -1,5 +1,5 @@
 def main():
-    print("Netskope Rocks!")
+    print("Gordon Rocks!")
 
 
 if __name__ == "__main__":
